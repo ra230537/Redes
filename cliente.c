@@ -31,13 +31,13 @@ int main(int argc, char *argv[]) {
         exit(1);
     }
 
-    int client_socket;
-    struct sockaddr_in server_addr, local_addr;
-    socklen_t addr_size;
-    char buffer[BUFFER_SIZE];
-    char *response = "TAREFA_LIMPEZA CONCLUÍDA";
-    char *server_ip = argv[1];
-    int server_port = atoi(argv[2]);
+    int client_socket; // Socket do cliente
+    struct sockaddr_in server_addr, local_addr; // Endereços do servidor e local
+    socklen_t addr_size; // Tamanho da estrutura de endereço
+    char buffer[BUFFER_SIZE]; // Buffer para mensagens
+    char *response = "TAREFA_LIMPEZA CONCLUÍDA"; // Resposta do cliente
+    char *server_ip = argv[1]; // IP do servidor
+    int server_port = atoi(argv[2]); // Porta do servidor
 
     // Criar socket do cliente
     client_socket = Socket(AF_INET, SOCK_STREAM, 0);
@@ -57,14 +57,14 @@ int main(int argc, char *argv[]) {
 
     // Obter informações sobre a conexão local
     addr_size = sizeof(local_addr);
-    if (getsockname(client_socket, (struct sockaddr *)&local_addr, &addr_size) == -1) {
+    if (getsockname(client_socket, (struct sockaddr *)&local_addr, &addr_size) == -1) { // Obter informações sobre a conexão local
         perror("getsockname");
         exit(1);
     }
 
-    char client_ip[INET_ADDRSTRLEN];
-    inet_ntop(AF_INET, &local_addr.sin_addr, client_ip, INET_ADDRSTRLEN);
-    int client_port = ntohs(local_addr.sin_port);
+    char client_ip[INET_ADDRSTRLEN]; // IP do cliente
+    inet_ntop(AF_INET, &local_addr.sin_addr, client_ip, INET_ADDRSTRLEN); // Converter endereço IP para string
+    int client_port = ntohs(local_addr.sin_port); // Porta do cliente
 
     // Imprimir informações sobre a conexão
     printf("Conectado ao servidor %s:%d\n", server_ip, server_port);
