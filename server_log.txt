@@ -1,0 +1,436 @@
+[18/10/2024 20:10:43] Conexão estabelecida com o cliente 127.0.0.1:38930.
+[18/10/2024 20:10:43] Tarefa 1 enviada ao cliente 127.0.0.1:38930.
+[18/10/2024 20:10:44] Conexão estabelecida com o cliente 127.0.0.1:38922.
+[18/10/2024 20:10:44] Tarefa 2 enviada ao cliente 127.0.0.1:38922.
+[18/10/2024 20:10:45] Resposta do cliente 127.0.0.1:38930: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:45] Tarefa 3 enviada ao cliente 127.0.0.1:38930.
+[18/10/2024 20:10:46] Resposta do cliente 127.0.0.1:38922: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:46] Tarefa 4 enviada ao cliente 127.0.0.1:38922.
+[18/10/2024 20:10:47] Resposta do cliente 127.0.0.1:38930: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:47] Tarefa 5 enviada ao cliente 127.0.0.1:38930.
+[18/10/2024 20:10:48] Conexão estabelecida com o cliente 127.0.0.1:38864.
+[18/10/2024 20:10:48] Cliente 127.0.0.1:38922 desconectou.
+[18/10/2024 20:10:48] Conexão encerrada com o cliente 127.0.0.1:38922.
+[18/10/2024 20:10:52] Conexão estabelecida com o cliente 127.0.0.1:50236.
+[18/10/2024 20:10:52] Tarefa 1 enviada ao cliente 127.0.0.1:50236.
+[18/10/2024 20:10:53] Conexão estabelecida com o cliente 127.0.0.1:50238.
+[18/10/2024 20:10:53] Tarefa 2 enviada ao cliente 127.0.0.1:50238.
+[18/10/2024 20:10:54] Resposta do cliente 127.0.0.1:50236: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:54] Conexão estabelecida com o cliente 127.0.0.1:50260.
+[18/10/2024 20:10:54] Tarefa 3 enviada ao cliente 127.0.0.1:50236.
+[18/10/2024 20:10:54] Tarefa 4 enviada ao cliente 127.0.0.1:50260.
+[18/10/2024 20:10:55] Conexão estabelecida com o cliente 127.0.0.1:50308.
+[18/10/2024 20:10:55] Tarefa 5 enviada ao cliente 127.0.0.1:50308.
+[18/10/2024 20:10:55] Resposta do cliente 127.0.0.1:50238: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:55] Tarefa 6 enviada ao cliente 127.0.0.1:50238.
+[18/10/2024 20:10:56] Resposta do cliente 127.0.0.1:50236: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:56] Tarefa 7 enviada ao cliente 127.0.0.1:50236.
+[18/10/2024 20:10:56] Resposta do cliente 127.0.0.1:50260: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:56] Tarefa 8 enviada ao cliente 127.0.0.1:50260.
+[18/10/2024 20:10:56] Conexão estabelecida com o cliente 127.0.0.1:50364.
+[18/10/2024 20:10:56] Tarefa 9 enviada ao cliente 127.0.0.1:50364.
+[18/10/2024 20:10:57] Resposta do cliente 127.0.0.1:50308: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:57] Resposta do cliente 127.0.0.1:50238: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:10:57] Conexão estabelecida com o cliente 127.0.0.1:50312.
+[18/10/2024 20:10:57] Tarefa 11 enviada ao cliente 127.0.0.1:50312.
+[18/10/2024 20:10:57] Tarefa 10 enviada ao cliente 127.0.0.1:50308.
+[18/10/2024 20:10:57] Tarefa 12 enviada ao cliente 127.0.0.1:50238.
+[18/10/2024 20:10:57] Cliente 127.0.0.1:50236 desconectou.
+[18/10/2024 20:10:57] Cliente 127.0.0.1:50238 desconectou.
+[18/10/2024 20:10:57] Conexão encerrada com o cliente 127.0.0.1:50238.
+[18/10/2024 20:10:57] Conexão encerrada com o cliente 127.0.0.1:50236.
+[18/10/2024 20:10:57] Cliente 127.0.0.1:50260 desconectou.
+[18/10/2024 20:10:57] Cliente 127.0.0.1:50308 desconectou.
+[18/10/2024 20:10:57] Conexão encerrada com o cliente 127.0.0.1:50260.
+[18/10/2024 20:10:57] Conexão encerrada com o cliente 127.0.0.1:50308.
+[18/10/2024 20:10:57] Cliente 127.0.0.1:50312 desconectou.
+[18/10/2024 20:10:57] Cliente 127.0.0.1:50364 desconectou.
+[18/10/2024 20:10:57] Conexão encerrada com o cliente 127.0.0.1:50364.
+[18/10/2024 20:11:01] Conexão estabelecida com o cliente 127.0.0.1:45744.
+[18/10/2024 20:11:01] Tarefa 1 enviada ao cliente 127.0.0.1:45744.
+[18/10/2024 20:11:02] Conexão estabelecida com o cliente 127.0.0.1:45756.
+[18/10/2024 20:11:02] Tarefa 2 enviada ao cliente 127.0.0.1:45756.
+[18/10/2024 20:11:03] Resposta do cliente 127.0.0.1:45744: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:03] Tarefa 3 enviada ao cliente 127.0.0.1:45744.
+[18/10/2024 20:11:03] Conexão estabelecida com o cliente 127.0.0.1:45772.
+[18/10/2024 20:11:03] Tarefa 4 enviada ao cliente 127.0.0.1:45772.
+[18/10/2024 20:11:04] Resposta do cliente 127.0.0.1:45756: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:04] Tarefa 5 enviada ao cliente 127.0.0.1:45756.
+[18/10/2024 20:11:04] Conexão estabelecida com o cliente 127.0.0.1:45776.
+[18/10/2024 20:11:04] Tarefa 6 enviada ao cliente 127.0.0.1:45776.
+[18/10/2024 20:11:05] Resposta do cliente 127.0.0.1:45772: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:05] Resposta do cliente 127.0.0.1:45744: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:05] Tarefa 8 enviada ao cliente 127.0.0.1:45744.
+[18/10/2024 20:11:05] Tarefa 7 enviada ao cliente 127.0.0.1:45772.
+[18/10/2024 20:11:05] Conexão estabelecida com o cliente 127.0.0.1:45800.
+[18/10/2024 20:11:05] Tarefa 9 enviada ao cliente 127.0.0.1:45800.
+[18/10/2024 20:11:06] Resposta do cliente 127.0.0.1:45756: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:06] Tarefa 10 enviada ao cliente 127.0.0.1:45756.
+[18/10/2024 20:11:06] Resposta do cliente 127.0.0.1:45776: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:06] Tarefa 11 enviada ao cliente 127.0.0.1:45776.
+[18/10/2024 20:11:06] Conexão estabelecida com o cliente 127.0.0.1:45856.
+[18/10/2024 20:11:06] Tarefa 12 enviada ao cliente 127.0.0.1:45856.
+[18/10/2024 20:11:06] Cliente 127.0.0.1:45776 desconectou.
+[18/10/2024 20:11:06] Cliente 127.0.0.1:45744 desconectou.
+[18/10/2024 20:11:06] Cliente 127.0.0.1:45756 desconectou.
+[18/10/2024 20:11:06] Conexão encerrada com o cliente 127.0.0.1:45744.
+[18/10/2024 20:11:06] Conexão encerrada com o cliente 127.0.0.1:45756.
+[18/10/2024 20:11:06] Cliente 127.0.0.1:45772 desconectou.
+[18/10/2024 20:11:06] Conexão encerrada com o cliente 127.0.0.1:45772.
+[18/10/2024 20:11:06] Cliente 127.0.0.1:45800 desconectou.
+[18/10/2024 20:11:06] Conexão encerrada com o cliente 127.0.0.1:45776.
+[18/10/2024 20:11:06] Conexão encerrada com o cliente 127.0.0.1:45800.
+[18/10/2024 20:11:10] Conexão estabelecida com o cliente 127.0.0.1:35566.
+[18/10/2024 20:11:10] Tarefa 1 enviada ao cliente 127.0.0.1:35566.
+[18/10/2024 20:11:11] Conexão estabelecida com o cliente 127.0.0.1:35610.
+[18/10/2024 20:11:11] Tarefa 2 enviada ao cliente 127.0.0.1:35610.
+[18/10/2024 20:11:12] Conexão estabelecida com o cliente 127.0.0.1:35584.
+[18/10/2024 20:11:12] Resposta do cliente 127.0.0.1:35566: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:12] Tarefa 3 enviada ao cliente 127.0.0.1:35584.
+[18/10/2024 20:11:12] Tarefa 4 enviada ao cliente 127.0.0.1:35566.
+[18/10/2024 20:11:13] Resposta do cliente 127.0.0.1:35610: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:13] Tarefa 5 enviada ao cliente 127.0.0.1:35610.
+[18/10/2024 20:11:13] Conexão estabelecida com o cliente 127.0.0.1:35576.
+[18/10/2024 20:11:13] Tarefa 6 enviada ao cliente 127.0.0.1:35576.
+[18/10/2024 20:11:14] Resposta do cliente 127.0.0.1:35584: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:14] Resposta do cliente 127.0.0.1:35566: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:14] Tarefa 7 enviada ao cliente 127.0.0.1:35584.
+[18/10/2024 20:11:14] Tarefa 8 enviada ao cliente 127.0.0.1:35566.
+[18/10/2024 20:11:14] Conexão estabelecida com o cliente 127.0.0.1:35646.
+[18/10/2024 20:11:14] Tarefa 9 enviada ao cliente 127.0.0.1:35646.
+[18/10/2024 20:11:15] Resposta do cliente 127.0.0.1:35610: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:15] Tarefa 10 enviada ao cliente 127.0.0.1:35610.
+[18/10/2024 20:11:15] Resposta do cliente 127.0.0.1:35576: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:15] Tarefa 11 enviada ao cliente 127.0.0.1:35576.
+[18/10/2024 20:11:15] Conexão estabelecida com o cliente 127.0.0.1:35626.
+[18/10/2024 20:11:15] Tarefa 12 enviada ao cliente 127.0.0.1:35626.
+[18/10/2024 20:11:15] Cliente 127.0.0.1:35610 desconectou.
+[18/10/2024 20:11:15] Cliente 127.0.0.1:35584 desconectou.
+[18/10/2024 20:11:15] Conexão encerrada com o cliente 127.0.0.1:35584.
+[18/10/2024 20:11:15] Conexão encerrada com o cliente 127.0.0.1:35610.
+[18/10/2024 20:11:15] Cliente 127.0.0.1:35646 desconectou.
+[18/10/2024 20:11:15] Conexão encerrada com o cliente 127.0.0.1:35646.
+[18/10/2024 20:11:15] Cliente 127.0.0.1:35626 desconectou.
+[18/10/2024 20:11:15] Cliente 127.0.0.1:35566 desconectou.
+[18/10/2024 20:11:15] Conexão encerrada com o cliente 127.0.0.1:35566.
+[18/10/2024 20:11:15] Conexão encerrada com o cliente 127.0.0.1:35626.
+[18/10/2024 20:11:19] Conexão estabelecida com o cliente 127.0.0.1:55132.
+[18/10/2024 20:11:19] Tarefa 1 enviada ao cliente 127.0.0.1:55132.
+[18/10/2024 20:11:21] Conexão estabelecida com o cliente 127.0.0.1:55130.
+[18/10/2024 20:11:21] Tarefa 2 enviada ao cliente 127.0.0.1:55130.
+[18/10/2024 20:11:21] Resposta do cliente 127.0.0.1:55132: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:21] Tarefa 3 enviada ao cliente 127.0.0.1:55132.
+[18/10/2024 20:11:21] Conexão estabelecida com o cliente 127.0.0.1:55150.
+[18/10/2024 20:11:21] Tarefa 4 enviada ao cliente 127.0.0.1:55150.
+[18/10/2024 20:11:22] Resposta do cliente 127.0.0.1:55130: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:22] Tarefa 5 enviada ao cliente 127.0.0.1:55130.
+[18/10/2024 20:11:22] Conexão estabelecida com o cliente 127.0.0.1:55148.
+[18/10/2024 20:11:22] Tarefa 6 enviada ao cliente 127.0.0.1:55148.
+[18/10/2024 20:11:23] Resposta do cliente 127.0.0.1:55132: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:23] Resposta do cliente 127.0.0.1:55150: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:23] Tarefa 7 enviada ao cliente 127.0.0.1:55132.
+[18/10/2024 20:11:23] Tarefa 8 enviada ao cliente 127.0.0.1:55150.
+[18/10/2024 20:11:23] Conexão estabelecida com o cliente 127.0.0.1:55166.
+[18/10/2024 20:11:23] Tarefa 9 enviada ao cliente 127.0.0.1:55166.
+[18/10/2024 20:11:24] Resposta do cliente 127.0.0.1:55130: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:24] Tarefa 10 enviada ao cliente 127.0.0.1:55130.
+[18/10/2024 20:11:24] Resposta do cliente 127.0.0.1:55148: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:24] Tarefa 11 enviada ao cliente 127.0.0.1:55148.
+[18/10/2024 20:11:24] Conexão estabelecida com o cliente 127.0.0.1:55172.
+[18/10/2024 20:11:24] Tarefa 12 enviada ao cliente 127.0.0.1:55172.
+[18/10/2024 20:11:25] Cliente 127.0.0.1:55132 desconectou.
+[18/10/2024 20:11:25] Cliente 127.0.0.1:55166 desconectou.
+[18/10/2024 20:11:25] Cliente 127.0.0.1:55130 desconectou.
+[18/10/2024 20:11:25] Conexão encerrada com o cliente 127.0.0.1:55132.
+[18/10/2024 20:11:25] Cliente 127.0.0.1:55148 desconectou.
+[18/10/2024 20:11:25] Conexão encerrada com o cliente 127.0.0.1:55166.
+[18/10/2024 20:11:25] Conexão encerrada com o cliente 127.0.0.1:55130.
+[18/10/2024 20:11:25] Cliente 127.0.0.1:55172 desconectou.
+[18/10/2024 20:11:25] Cliente 127.0.0.1:55150 desconectou.
+[18/10/2024 20:11:25] Conexão encerrada com o cliente 127.0.0.1:55172.
+[18/10/2024 20:11:25] Conexão encerrada com o cliente 127.0.0.1:55148.
+[18/10/2024 20:11:25] Conexão encerrada com o cliente 127.0.0.1:55150.
+[18/10/2024 20:11:29] Conexão estabelecida com o cliente 127.0.0.1:41738.
+[18/10/2024 20:11:29] Tarefa 1 enviada ao cliente 127.0.0.1:41738.
+[18/10/2024 20:11:30] Conexão estabelecida com o cliente 127.0.0.1:41742.
+[18/10/2024 20:11:30] Tarefa 2 enviada ao cliente 127.0.0.1:41742.
+[18/10/2024 20:11:31] Resposta do cliente 127.0.0.1:41738: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:31] Conexão estabelecida com o cliente 127.0.0.1:41772.
+[18/10/2024 20:11:31] Tarefa 3 enviada ao cliente 127.0.0.1:41772.
+[18/10/2024 20:11:31] Tarefa 4 enviada ao cliente 127.0.0.1:41738.
+[18/10/2024 20:11:32] Conexão estabelecida com o cliente 127.0.0.1:41740.
+[18/10/2024 20:11:32] Tarefa 5 enviada ao cliente 127.0.0.1:41740.
+[18/10/2024 20:11:32] Resposta do cliente 127.0.0.1:41742: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:32] Tarefa 6 enviada ao cliente 127.0.0.1:41742.
+[18/10/2024 20:11:33] Resposta do cliente 127.0.0.1:41772: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:33] Resposta do cliente 127.0.0.1:41738: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:33] Conexão estabelecida com o cliente 127.0.0.1:41774.
+[18/10/2024 20:11:33] Tarefa 7 enviada ao cliente 127.0.0.1:41738.
+[18/10/2024 20:11:33] Tarefa 8 enviada ao cliente 127.0.0.1:41772.
+[18/10/2024 20:11:33] Tarefa 9 enviada ao cliente 127.0.0.1:41774.
+[18/10/2024 20:11:34] Conexão estabelecida com o cliente 127.0.0.1:41788.
+[18/10/2024 20:11:34] Tarefa 10 enviada ao cliente 127.0.0.1:41788.
+[18/10/2024 20:11:34] Resposta do cliente 127.0.0.1:41742: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:34] Resposta do cliente 127.0.0.1:41740: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:34] Tarefa 11 enviada ao cliente 127.0.0.1:41742.
+[18/10/2024 20:11:34] Tarefa 12 enviada ao cliente 127.0.0.1:41740.
+[18/10/2024 20:11:34] Cliente 127.0.0.1:41738 desconectou.
+[18/10/2024 20:11:34] Cliente 127.0.0.1:41788 desconectou.
+[18/10/2024 20:11:34] Conexão encerrada com o cliente 127.0.0.1:41738.
+[18/10/2024 20:11:34] Conexão encerrada com o cliente 127.0.0.1:41788.
+[18/10/2024 20:11:34] Cliente 127.0.0.1:41742 desconectou.
+[18/10/2024 20:11:34] Cliente 127.0.0.1:41774 desconectou.
+[18/10/2024 20:11:34] Cliente 127.0.0.1:41772 desconectou.
+[18/10/2024 20:11:34] Conexão encerrada com o cliente 127.0.0.1:41742.
+[18/10/2024 20:11:34] Conexão encerrada com o cliente 127.0.0.1:41774.
+[18/10/2024 20:11:34] Conexão encerrada com o cliente 127.0.0.1:41772.
+[18/10/2024 20:11:34] Cliente 127.0.0.1:41740 desconectou.
+[18/10/2024 20:11:34] Conexão encerrada com o cliente 127.0.0.1:41740.
+[18/10/2024 20:11:38] Conexão estabelecida com o cliente 127.0.0.1:58056.
+[18/10/2024 20:11:38] Tarefa 1 enviada ao cliente 127.0.0.1:58056.
+[18/10/2024 20:11:39] Conexão estabelecida com o cliente 127.0.0.1:58072.
+[18/10/2024 20:11:39] Tarefa 2 enviada ao cliente 127.0.0.1:58072.
+[18/10/2024 20:11:40] Resposta do cliente 127.0.0.1:58056: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:40] Conexão estabelecida com o cliente 127.0.0.1:58082.
+[18/10/2024 20:11:40] Tarefa 3 enviada ao cliente 127.0.0.1:58056.
+[18/10/2024 20:11:40] Tarefa 4 enviada ao cliente 127.0.0.1:58082.
+[18/10/2024 20:11:41] Resposta do cliente 127.0.0.1:58072: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:41] Tarefa 5 enviada ao cliente 127.0.0.1:58072.
+[18/10/2024 20:11:41] Conexão estabelecida com o cliente 127.0.0.1:58098.
+[18/10/2024 20:11:41] Tarefa 6 enviada ao cliente 127.0.0.1:58098.
+[18/10/2024 20:11:42] Resposta do cliente 127.0.0.1:58082: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:42] Resposta do cliente 127.0.0.1:58056: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:42] Tarefa 7 enviada ao cliente 127.0.0.1:58056.
+[18/10/2024 20:11:42] Tarefa 8 enviada ao cliente 127.0.0.1:58082.
+[18/10/2024 20:11:42] Conexão estabelecida com o cliente 127.0.0.1:58110.
+[18/10/2024 20:11:42] Tarefa 9 enviada ao cliente 127.0.0.1:58110.
+[18/10/2024 20:11:43] Resposta do cliente 127.0.0.1:58072: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:43] Resposta do cliente 127.0.0.1:58098: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:43] Tarefa 10 enviada ao cliente 127.0.0.1:58098.
+[18/10/2024 20:11:43] Tarefa 11 enviada ao cliente 127.0.0.1:58072.
+[18/10/2024 20:11:43] Conexão estabelecida com o cliente 127.0.0.1:58108.
+[18/10/2024 20:11:43] Tarefa 12 enviada ao cliente 127.0.0.1:58108.
+[18/10/2024 20:11:43] Cliente 127.0.0.1:58056 desconectou.
+[18/10/2024 20:11:43] Cliente 127.0.0.1:58072 desconectou.
+[18/10/2024 20:11:43] Conexão encerrada com o cliente 127.0.0.1:58072.
+[18/10/2024 20:11:43] Conexão encerrada com o cliente 127.0.0.1:58056.
+[18/10/2024 20:11:43] Cliente 127.0.0.1:58098 desconectou.
+[18/10/2024 20:11:43] Cliente 127.0.0.1:58110 desconectou.
+[18/10/2024 20:11:43] Conexão encerrada com o cliente 127.0.0.1:58098.
+[18/10/2024 20:11:43] Cliente 127.0.0.1:58108 desconectou.
+[18/10/2024 20:11:43] Conexão encerrada com o cliente 127.0.0.1:58108.
+[18/10/2024 20:11:43] Cliente 127.0.0.1:58082 desconectou.
+[18/10/2024 20:11:43] Conexão encerrada com o cliente 127.0.0.1:58110.
+[18/10/2024 20:11:43] Conexão encerrada com o cliente 127.0.0.1:58082.
+[18/10/2024 20:11:47] Conexão estabelecida com o cliente 127.0.0.1:58208.
+[18/10/2024 20:11:47] Tarefa 1 enviada ao cliente 127.0.0.1:58208.
+[18/10/2024 20:11:48] Conexão estabelecida com o cliente 127.0.0.1:58222.
+[18/10/2024 20:11:48] Tarefa 2 enviada ao cliente 127.0.0.1:58222.
+[18/10/2024 20:11:49] Resposta do cliente 127.0.0.1:58208: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:49] Conexão estabelecida com o cliente 127.0.0.1:58234.
+[18/10/2024 20:11:49] Tarefa 3 enviada ao cliente 127.0.0.1:58234.
+[18/10/2024 20:11:49] Tarefa 4 enviada ao cliente 127.0.0.1:58208.
+[18/10/2024 20:11:50] Resposta do cliente 127.0.0.1:58222: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:50] Tarefa 5 enviada ao cliente 127.0.0.1:58222.
+[18/10/2024 20:11:50] Conexão estabelecida com o cliente 127.0.0.1:58238.
+[18/10/2024 20:11:50] Tarefa 6 enviada ao cliente 127.0.0.1:58238.
+[18/10/2024 20:11:51] Resposta do cliente 127.0.0.1:58234: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:51] Resposta do cliente 127.0.0.1:58208: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:51] Conexão estabelecida com o cliente 127.0.0.1:58256.
+[18/10/2024 20:11:51] Tarefa 7 enviada ao cliente 127.0.0.1:58234.
+[18/10/2024 20:11:51] Tarefa 9 enviada ao cliente 127.0.0.1:58256.
+[18/10/2024 20:11:51] Tarefa 8 enviada ao cliente 127.0.0.1:58208.
+[18/10/2024 20:11:52] Resposta do cliente 127.0.0.1:58222: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:52] Conexão estabelecida com o cliente 127.0.0.1:58246.
+[18/10/2024 20:11:52] Resposta do cliente 127.0.0.1:58238: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:52] Tarefa 10 enviada ao cliente 127.0.0.1:58238.
+[18/10/2024 20:11:52] Tarefa 11 enviada ao cliente 127.0.0.1:58246.
+[18/10/2024 20:11:52] Tarefa 12 enviada ao cliente 127.0.0.1:58222.
+[18/10/2024 20:11:52] Cliente 127.0.0.1:58246 desconectou.
+[18/10/2024 20:11:52] Cliente 127.0.0.1:58238 desconectou.
+[18/10/2024 20:11:52] Cliente 127.0.0.1:58208 desconectou.
+[18/10/2024 20:11:52] Cliente 127.0.0.1:58222 desconectou.
+[18/10/2024 20:11:52] Conexão encerrada com o cliente 127.0.0.1:58238.
+[18/10/2024 20:11:52] Conexão encerrada com o cliente 127.0.0.1:58208.
+[18/10/2024 20:11:52] Conexão encerrada com o cliente 127.0.0.1:58222.
+[18/10/2024 20:11:52] Cliente 127.0.0.1:58234 desconectou.
+[18/10/2024 20:11:52] Conexão encerrada com o cliente 127.0.0.1:58234.
+[18/10/2024 20:11:52] Conexão encerrada com o cliente 127.0.0.1:58246.
+[18/10/2024 20:11:52] Cliente 127.0.0.1:58256 desconectou.
+[18/10/2024 20:11:52] Conexão encerrada com o cliente 127.0.0.1:58256.
+[18/10/2024 20:11:56] Conexão estabelecida com o cliente 127.0.0.1:52816.
+[18/10/2024 20:11:56] Tarefa 1 enviada ao cliente 127.0.0.1:52816.
+[18/10/2024 20:11:57] Conexão estabelecida com o cliente 127.0.0.1:52822.
+[18/10/2024 20:11:57] Tarefa 2 enviada ao cliente 127.0.0.1:52822.
+[18/10/2024 20:11:58] Resposta do cliente 127.0.0.1:52816: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:58] Tarefa 3 enviada ao cliente 127.0.0.1:52816.
+[18/10/2024 20:11:58] Conexão estabelecida com o cliente 127.0.0.1:52818.
+[18/10/2024 20:11:58] Tarefa 4 enviada ao cliente 127.0.0.1:52818.
+[18/10/2024 20:11:59] Resposta do cliente 127.0.0.1:52822: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:11:59] Tarefa 5 enviada ao cliente 127.0.0.1:52822.
+[18/10/2024 20:11:59] Conexão estabelecida com o cliente 127.0.0.1:52836.
+[18/10/2024 20:11:59] Tarefa 6 enviada ao cliente 127.0.0.1:52836.
+[18/10/2024 20:12:00] Resposta do cliente 127.0.0.1:52816: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:00] Tarefa 7 enviada ao cliente 127.0.0.1:52816.
+[18/10/2024 20:12:00] Resposta do cliente 127.0.0.1:52818: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:00] Tarefa 8 enviada ao cliente 127.0.0.1:52818.
+[18/10/2024 20:12:00] Conexão estabelecida com o cliente 127.0.0.1:52852.
+[18/10/2024 20:12:00] Tarefa 9 enviada ao cliente 127.0.0.1:52852.
+[18/10/2024 20:12:01] Resposta do cliente 127.0.0.1:52822: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:01] Tarefa 10 enviada ao cliente 127.0.0.1:52822.
+[18/10/2024 20:12:01] Resposta do cliente 127.0.0.1:52836: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:01] Tarefa 11 enviada ao cliente 127.0.0.1:52836.
+[18/10/2024 20:12:01] Conexão estabelecida com o cliente 127.0.0.1:52854.
+[18/10/2024 20:12:01] Tarefa 12 enviada ao cliente 127.0.0.1:52854.
+[18/10/2024 20:12:01] Cliente 127.0.0.1:52822 desconectou.
+[18/10/2024 20:12:01] Cliente 127.0.0.1:52816 desconectou.
+[18/10/2024 20:12:01] Cliente 127.0.0.1:52818 desconectou.
+[18/10/2024 20:12:01] Cliente 127.0.0.1:52852 desconectou.
+[18/10/2024 20:12:01] Conexão encerrada com o cliente 127.0.0.1:52816.
+[18/10/2024 20:12:01] Conexão encerrada com o cliente 127.0.0.1:52818.
+[18/10/2024 20:12:01] Conexão encerrada com o cliente 127.0.0.1:52852.
+[18/10/2024 20:12:01] Cliente 127.0.0.1:52836 desconectou.
+[18/10/2024 20:12:01] Cliente 127.0.0.1:52854 desconectou.
+[18/10/2024 20:12:01] Conexão encerrada com o cliente 127.0.0.1:52854.
+[18/10/2024 20:12:01] Conexão encerrada com o cliente 127.0.0.1:52822.
+[18/10/2024 20:12:01] Conexão encerrada com o cliente 127.0.0.1:52836.
+[18/10/2024 20:12:05] Conexão estabelecida com o cliente 127.0.0.1:58034.
+[18/10/2024 20:12:05] Tarefa 1 enviada ao cliente 127.0.0.1:58034.
+[18/10/2024 20:12:06] Conexão estabelecida com o cliente 127.0.0.1:58048.
+[18/10/2024 20:12:06] Tarefa 2 enviada ao cliente 127.0.0.1:58048.
+[18/10/2024 20:12:07] Resposta do cliente 127.0.0.1:58034: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:07] Tarefa 3 enviada ao cliente 127.0.0.1:58034.
+[18/10/2024 20:12:07] Conexão estabelecida com o cliente 127.0.0.1:58056.
+[18/10/2024 20:12:07] Tarefa 4 enviada ao cliente 127.0.0.1:58056.
+[18/10/2024 20:12:08] Resposta do cliente 127.0.0.1:58048: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:08] Conexão estabelecida com o cliente 127.0.0.1:58058.
+[18/10/2024 20:12:08] Tarefa 5 enviada ao cliente 127.0.0.1:58048.
+[18/10/2024 20:12:08] Tarefa 6 enviada ao cliente 127.0.0.1:58058.
+[18/10/2024 20:12:09] Resposta do cliente 127.0.0.1:58034: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:09] Tarefa 7 enviada ao cliente 127.0.0.1:58034.
+[18/10/2024 20:12:09] Resposta do cliente 127.0.0.1:58056: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:09] Tarefa 8 enviada ao cliente 127.0.0.1:58056.
+[18/10/2024 20:12:09] Conexão estabelecida com o cliente 127.0.0.1:58068.
+[18/10/2024 20:12:09] Tarefa 9 enviada ao cliente 127.0.0.1:58068.
+[18/10/2024 20:12:10] Resposta do cliente 127.0.0.1:58058: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:10] Resposta do cliente 127.0.0.1:58048: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:10] Tarefa 10 enviada ao cliente 127.0.0.1:58058.
+[18/10/2024 20:12:10] Tarefa 11 enviada ao cliente 127.0.0.1:58048.
+[18/10/2024 20:12:10] Conexão estabelecida com o cliente 127.0.0.1:58082.
+[18/10/2024 20:12:10] Tarefa 12 enviada ao cliente 127.0.0.1:58082.
+[18/10/2024 20:12:10] Cliente 127.0.0.1:58056 desconectou.
+[18/10/2024 20:12:10] Cliente 127.0.0.1:58048 desconectou.
+[18/10/2024 20:12:10] Conexão encerrada com o cliente 127.0.0.1:58048.
+[18/10/2024 20:12:10] Conexão encerrada com o cliente 127.0.0.1:58056.
+[18/10/2024 20:12:10] Cliente 127.0.0.1:58058 desconectou.
+[18/10/2024 20:12:10] Conexão encerrada com o cliente 127.0.0.1:58058.
+[18/10/2024 20:12:10] Cliente 127.0.0.1:58068 desconectou.
+[18/10/2024 20:12:10] Conexão encerrada com o cliente 127.0.0.1:58068.
+[18/10/2024 20:12:10] Cliente 127.0.0.1:58082 desconectou.
+[18/10/2024 20:12:10] Conexão encerrada com o cliente 127.0.0.1:58082.
+[18/10/2024 20:12:10] Cliente 127.0.0.1:58034 desconectou.
+[18/10/2024 20:12:14] Conexão estabelecida com o cliente 127.0.0.1:56498.
+[18/10/2024 20:12:14] Tarefa 1 enviada ao cliente 127.0.0.1:56498.
+[18/10/2024 20:12:15] Conexão estabelecida com o cliente 127.0.0.1:56506.
+[18/10/2024 20:12:15] Tarefa 2 enviada ao cliente 127.0.0.1:56506.
+[18/10/2024 20:12:16] Resposta do cliente 127.0.0.1:56498: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:16] Conexão estabelecida com o cliente 127.0.0.1:56516.
+[18/10/2024 20:12:16] Tarefa 3 enviada ao cliente 127.0.0.1:56516.
+[18/10/2024 20:12:16] Tarefa 4 enviada ao cliente 127.0.0.1:56498.
+[18/10/2024 20:12:17] Resposta do cliente 127.0.0.1:56506: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:17] Tarefa 5 enviada ao cliente 127.0.0.1:56506.
+[18/10/2024 20:12:17] Conexão estabelecida com o cliente 127.0.0.1:56526.
+[18/10/2024 20:12:17] Tarefa 6 enviada ao cliente 127.0.0.1:56526.
+[18/10/2024 20:12:18] Resposta do cliente 127.0.0.1:56516: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:18] Resposta do cliente 127.0.0.1:56498: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:18] Tarefa 8 enviada ao cliente 127.0.0.1:56516.
+[18/10/2024 20:12:18] Tarefa 7 enviada ao cliente 127.0.0.1:56498.
+[18/10/2024 20:12:18] Conexão estabelecida com o cliente 127.0.0.1:56532.
+[18/10/2024 20:12:18] Tarefa 9 enviada ao cliente 127.0.0.1:56532.
+[18/10/2024 20:12:19] Resposta do cliente 127.0.0.1:56506: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:19] Tarefa 10 enviada ao cliente 127.0.0.1:56506.
+[18/10/2024 20:12:19] Resposta do cliente 127.0.0.1:56526: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:19] Conexão estabelecida com o cliente 127.0.0.1:56542.
+[18/10/2024 20:12:19] Tarefa 12 enviada ao cliente 127.0.0.1:56542.
+[18/10/2024 20:12:19] Tarefa 11 enviada ao cliente 127.0.0.1:56526.
+[18/10/2024 20:12:19] Cliente 127.0.0.1:56498 desconectou.
+[18/10/2024 20:12:19] Cliente 127.0.0.1:56516 desconectou.
+[18/10/2024 20:12:19] Conexão encerrada com o cliente 127.0.0.1:56498.
+[18/10/2024 20:12:19] Conexão encerrada com o cliente 127.0.0.1:56516.
+[18/10/2024 20:12:19] Cliente 127.0.0.1:56506 desconectou.
+[18/10/2024 20:12:19] Conexão encerrada com o cliente 127.0.0.1:56506.
+[18/10/2024 20:12:19] Cliente 127.0.0.1:56532 desconectou.
+[18/10/2024 20:12:19] Conexão encerrada com o cliente 127.0.0.1:56532.
+[18/10/2024 20:12:19] Cliente 127.0.0.1:56526 desconectou.
+[18/10/2024 20:12:19] Conexão encerrada com o cliente 127.0.0.1:56526.
+[18/10/2024 20:12:19] Cliente 127.0.0.1:56542 desconectou.
+[18/10/2024 20:12:19] Conexão encerrada com o cliente 127.0.0.1:56542.
+[18/10/2024 20:12:23] Conexão estabelecida com o cliente 127.0.0.1:55908.
+[18/10/2024 20:12:23] Tarefa 1 enviada ao cliente 127.0.0.1:55908.
+[18/10/2024 20:12:24] Conexão estabelecida com o cliente 127.0.0.1:55922.
+[18/10/2024 20:12:24] Tarefa 2 enviada ao cliente 127.0.0.1:55922.
+[18/10/2024 20:12:25] Resposta do cliente 127.0.0.1:55908: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:25] Conexão estabelecida com o cliente 127.0.0.1:55930.
+[18/10/2024 20:12:25] Tarefa 4 enviada ao cliente 127.0.0.1:55908.
+[18/10/2024 20:12:25] Tarefa 3 enviada ao cliente 127.0.0.1:55930.
+[18/10/2024 20:12:26] Resposta do cliente 127.0.0.1:55922: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:26] Tarefa 5 enviada ao cliente 127.0.0.1:55922.
+[18/10/2024 20:12:26] Conexão estabelecida com o cliente 127.0.0.1:55932.
+[18/10/2024 20:12:26] Tarefa 6 enviada ao cliente 127.0.0.1:55932.
+[18/10/2024 20:12:27] Resposta do cliente 127.0.0.1:55908: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:27] Resposta do cliente 127.0.0.1:55930: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:27] Tarefa 8 enviada ao cliente 127.0.0.1:55930.
+[18/10/2024 20:12:27] Tarefa 7 enviada ao cliente 127.0.0.1:55908.
+[18/10/2024 20:12:27] Conexão estabelecida com o cliente 127.0.0.1:55944.
+[18/10/2024 20:12:27] Tarefa 9 enviada ao cliente 127.0.0.1:55944.
+[18/10/2024 20:12:28] Resposta do cliente 127.0.0.1:55922: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:28] Tarefa 10 enviada ao cliente 127.0.0.1:55922.
+[18/10/2024 20:12:28] Resposta do cliente 127.0.0.1:55932: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:28] Tarefa 11 enviada ao cliente 127.0.0.1:55932.
+[18/10/2024 20:12:28] Conexão estabelecida com o cliente 127.0.0.1:55934.
+[18/10/2024 20:12:28] Tarefa 12 enviada ao cliente 127.0.0.1:55934.
+[18/10/2024 20:12:28] Cliente 127.0.0.1:55934 desconectou.
+[18/10/2024 20:12:28] Cliente 127.0.0.1:55908 desconectou.
+[18/10/2024 20:12:28] Cliente 127.0.0.1:55932 desconectou.
+[18/10/2024 20:12:28] Conexão encerrada com o cliente 127.0.0.1:55934.
+[18/10/2024 20:12:28] Cliente 127.0.0.1:55944 desconectou.
+[18/10/2024 20:12:28] Conexão encerrada com o cliente 127.0.0.1:55908.
+[18/10/2024 20:12:28] Cliente 127.0.0.1:55922 desconectou.
+[18/10/2024 20:12:28] Cliente 127.0.0.1:55930 desconectou.
+[18/10/2024 20:12:28] Conexão encerrada com o cliente 127.0.0.1:55932.
+[18/10/2024 20:12:28] Conexão encerrada com o cliente 127.0.0.1:55944.
+[18/10/2024 20:12:28] Conexão encerrada com o cliente 127.0.0.1:55930.
+[18/10/2024 20:12:28] Conexão encerrada com o cliente 127.0.0.1:55922.
+[18/10/2024 20:12:32] Conexão estabelecida com o cliente 127.0.0.1:51070.
+[18/10/2024 20:12:32] Tarefa 1 enviada ao cliente 127.0.0.1:51070.
+[18/10/2024 20:12:33] Conexão estabelecida com o cliente 127.0.0.1:51072.
+[18/10/2024 20:12:33] Tarefa 2 enviada ao cliente 127.0.0.1:51072.
+[18/10/2024 20:12:34] Resposta do cliente 127.0.0.1:51070: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:34] Tarefa 3 enviada ao cliente 127.0.0.1:51070.
+[18/10/2024 20:12:34] Conexão estabelecida com o cliente 127.0.0.1:51062.
+[18/10/2024 20:12:34] Tarefa 4 enviada ao cliente 127.0.0.1:51062.
+[18/10/2024 20:12:35] Resposta do cliente 127.0.0.1:51072: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:35] Tarefa 5 enviada ao cliente 127.0.0.1:51072.
+[18/10/2024 20:12:35] Conexão estabelecida com o cliente 127.0.0.1:51088.
+[18/10/2024 20:12:35] Tarefa 6 enviada ao cliente 127.0.0.1:51088.
+[18/10/2024 20:12:36] Resposta do cliente 127.0.0.1:51070: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:36] Tarefa 7 enviada ao cliente 127.0.0.1:51070.
+[18/10/2024 20:12:36] Resposta do cliente 127.0.0.1:51062: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:36] Conexão estabelecida com o cliente 127.0.0.1:51100.
+[18/10/2024 20:12:36] Tarefa 9 enviada ao cliente 127.0.0.1:51100.
+[18/10/2024 20:12:36] Tarefa 8 enviada ao cliente 127.0.0.1:51062.
+[18/10/2024 20:12:37] Resposta do cliente 127.0.0.1:51072: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:37] Tarefa 10 enviada ao cliente 127.0.0.1:51072.
+[18/10/2024 20:12:37] Resposta do cliente 127.0.0.1:51088: TAREFA_LIMPEZA CONCLUÍDA
+[18/10/2024 20:12:37] Tarefa 11 enviada ao cliente 127.0.0.1:51088.
+[18/10/2024 20:12:37] Conexão estabelecida com o cliente 127.0.0.1:51106.
+[18/10/2024 20:12:37] Tarefa 12 enviada ao cliente 127.0.0.1:51106.
+[18/10/2024 20:12:37] Cliente 127.0.0.1:51070 desconectou.
+[18/10/2024 20:12:37] Conexão encerrada com o cliente 127.0.0.1:51070.
+[18/10/2024 20:12:37] Cliente 127.0.0.1:51106 desconectou.
+[18/10/2024 20:12:37] Cliente 127.0.0.1:51100 desconectou.
+[18/10/2024 20:12:37] Cliente 127.0.0.1:51072 desconectou.
+[18/10/2024 20:12:37] Cliente 127.0.0.1:51088 desconectou.
+[18/10/2024 20:12:37] Conexão encerrada com o cliente 127.0.0.1:51072.
+[18/10/2024 20:12:37] Conexão encerrada com o cliente 127.0.0.1:51088.
+[18/10/2024 20:12:37] Conexão encerrada com o cliente 127.0.0.1:51106.
