@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Porta do servidor
-SERVER_PORT=5000
+SERVER_PORT=7000
 
 # Número máximo de clientes simultâneos
 NUM_CLIENTS=15
@@ -13,7 +13,7 @@ NUM_CLIENTS=15
 declare -A results
 
 # Loop sobre os valores de backlog de 0 a 12
-for backlog in {0..12}
+for backlog in {0,2,4,6,8,10,12}
 do
     echo "Iniciando teste com backlog = $backlog"
 
@@ -32,7 +32,7 @@ do
     done
 
     # Esperar um momento para que as conexões sejam estabelecidas
-    sleep 5
+    sleep 2
 
     # Usar netstat para contar o número de conexões estabelecidas
     CONNECTIONS=$(netstat -tan | grep ":$SERVER_PORT" | grep ESTABLISHED | wc -l)
@@ -55,6 +55,8 @@ do
 
     # Esperar um momento antes do próximo teste
     sleep 2
+
+    ((SERVER_PORT+=1))
 done
 
 # Salvar os resultados em um arquivo para uso posterior
