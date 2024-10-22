@@ -3,7 +3,7 @@
 PORT=8081  # Porta do servidor
 IP="127.0.0.1"  # IP do servidor
 
-backlog=12
+backlog=1
   echo "Testando com backlog = $backlog"
   ./servidor $PORT $backlog &
   SERVER_PID=$!
@@ -14,13 +14,13 @@ backlog=12
     ./cliente $IP $PORT > cliente_${backlog}_${i}.log 2>&1 &
   done
 
-  sleep 10
+  sleep 2
 
   # Monitorar conexões ativas
   netstat -taulpn | grep $PORT
 
   # Esperar o servidor processar
-  sleep 80
+  sleep 30
 
   # Encerrar o servidor
   kill $SERVER_PID

@@ -76,8 +76,11 @@ void* handle_client(void* client_socket_ptr) {
         task_number = next_task_number;
         next_task_number++;
         pthread_mutex_unlock(&task_mutex); // Desbloquear o mutex
+
+        /*
         // Condição para encerrar a conexão após enviar 5 tarefas
-        if (task_number > 200) {
+        if (task_number > 1) {
+            sleep(10);
             char *end_message = "ENCERRAR";
             send(client_socket, end_message, strlen(end_message), 0);
 
@@ -85,6 +88,9 @@ void* handle_client(void* client_socket_ptr) {
             log_message(log_entry);
             break;
         }
+
+        */
+
         // Definir a tarefa a ser enviada
         snprintf(task, sizeof(task), "TAREFA %d: LIMPEZA", task_number);
 
@@ -95,6 +101,14 @@ void* handle_client(void* client_socket_ptr) {
         snprintf(log_entry, sizeof(log_entry), "Tarefa %d enviada ao cliente %s:%d.", task_number, inet_ntoa(client_addr.sin_addr), ntohs(client_addr.sin_port));
         log_message(log_entry);
 
+        sleep(20);
+
+        char *end_message = "ENCERRAR";
+        send(client_socket, end_message, strlen(end_message), 0);
+        snprintf(log_entry, sizeof(log_entry), "Instrução de encerramento enviada ao cliente %s:%d.", inet_ntoa(client_addr.sin_addr), ntohs(client_addr.sin_port));
+        log_message(log_entry);
+        
+        /*
         // Receber resposta do cliente
         memset(buffer, 0, BUFFER_SIZE);
         int received_bytes = recv(client_socket, buffer, BUFFER_SIZE - 1, 0);
@@ -108,14 +122,15 @@ void* handle_client(void* client_socket_ptr) {
         // Registrar a resposta recebida no log
         snprintf(log_entry, sizeof(log_entry) - 100, "Resposta do cliente %s:%d: %.900s", inet_ntoa(client_addr.sin_addr), ntohs(client_addr.sin_port), buffer);
         log_message(log_entry);
-
+        */
         
     }
 
+    /*
     // Gravar log de desconexão do cliente
     snprintf(log_entry, sizeof(log_entry), "Conexão encerrada com o cliente %s:%d.", inet_ntoa(client_addr.sin_addr), ntohs(client_addr.sin_port));
     log_message(log_entry);
-
+    */
 
     // Fechar conexão com o cliente
     close(client_socket);
@@ -161,8 +176,6 @@ int main(int argc, char *argv[]) {
 
     printf("Servidor iniciado com backlog %d. Aguardando conexões na porta %d...\n", backlog, port);
 
-    sleep(40);
-
     // Loop para aceitar múltiplos clientes
     while (1) {
         client_socket_ptr = malloc(sizeof(int));  // Alocar memória para o ponteiro do cliente
@@ -182,8 +195,6 @@ int main(int argc, char *argv[]) {
 
         pthread_detach(thread_id);  // Desanexar a thread para limpar seus recursos automaticamente
     }
-
-    sleep(40);
 
     close(server_socket);
     pthread_mutex_destroy(&task_mutex);  // Destruir o mutex
